@@ -34,3 +34,4 @@ The purpose of this project is to help develop skills in:
 1. Clone the repository:
    ```bash
    git@github.com:abdelkarimTabcheh/Sign-Up-Form-TheOdinProject.git
+2. Github Pages link : https://abdelkarimtabcheh.github.io/Sign-Up-Form-TheOdinProject/
