@@ -45,4 +45,4 @@ The purpose of this project is to help develop skills in:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abdelkarimTabcheh/Sign-Up-Form-TheOdinProject.git
+   git@github.com:abdelkarimTabcheh/Sign-Up-Form-TheOdinProject.git
