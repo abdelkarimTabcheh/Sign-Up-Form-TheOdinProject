@@ -2,18 +2,6 @@
 
 This repository contains the **Sign Up Form** project for [The Odin Project](https://www.theodinproject.com/). The goal of this project is to practice basic form design using HTML and CSS, including form validation and responsive design.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Project Purpose](#project-purpose)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [How to Run the Project](#how-to-run-the-project)
-- [Screenshots](#screenshots)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 The Sign Up Form project focuses on building a form that collects user information (e.g., username, email, password). The project emphasizes:
